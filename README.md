@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there, I'm Galuh Arya
 - 🎓 Recently graduated in Software Engineering from SMK Negeri 1 Jakarta.<br>- 🌱 Currently diving deeper into [Specific Technologies or Fields of Interest, e.g., web development, mobile app development, machine learning].<br>- 💬 Web Development, PHP, JS, React JS, Laravel Framework, Python, and Software Engineering principles.<br>- 📫 Feel free to reach out via galuharyamln@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/galuharyamaulana).<br>- ⚡Coding is life so I really like coding.
 
 
